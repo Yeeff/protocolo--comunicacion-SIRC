@@ -11,3 +11,6 @@ communication with the help of two microcontrollers and infrared leds.
 
 
 ![image](https://user-images.githubusercontent.com/82126676/170363551-7a33d802-d486-49a6-b6cc-f1e1cdefb59f.png)
+
+![image](https://user-images.githubusercontent.com/82126676/170364188-17767999-7ec3-4123-892c-c33cf4fd2f5b.png)
+
